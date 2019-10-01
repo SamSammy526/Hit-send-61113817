@@ -11,3 +11,6 @@ font-size: x-small;
 img {
 	width: 150px;
 }
+input {
+	border-radius: 30px;
+}
